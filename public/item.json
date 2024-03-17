@@ -1,0 +1,109 @@
+[
+  {
+      "recipe_id": 1,
+      "recipe_name": "Classic Spaghetti Carbonara",
+      "short_description": "An authentic Italian pasta dish with creamy sauce",
+      "recipe_image": "https://i.ibb.co/4J2d5pq/rob-wicks-sl-DBXd-JCd-E-unsplash.jpg",
+      "ingredients": [
+          "Spaghetti",
+          "Eggs",
+          "Parmesan cheese",
+          "Bacon",
+          "Garlic",
+          "Black pepper"
+      ],
+      "preparing_time": 30,
+      "calories": 450
+  },
+  {
+      "recipe_id": 2,
+      "recipe_name": "Grilled Lemon Herb Chicken",
+      "short_description": "Juicy and flavorful grilled chicken marinated in herbs and lemon",
+      "recipe_image": "https://i.ibb.co/MG8fyym/sam-moghadam-khamseh-Vp-Opy6-Qr-Drs-unsplash.jpg",
+      "ingredients": [
+          "Chicken breasts",
+          "Lemon",
+          "Garlic",
+          "Olive oil",
+          "Rosemary",
+          "Thyme",
+          "Salt",
+          "Black pepper"
+      ],
+      "preparing_time": 25,
+      "calories": 320
+  },
+  {
+      "recipe_id": 3,
+      "recipe_name": "Vegetarian Pad Thai",
+      "short_description": "A delicious Thai noodle dish with tofu and vegetables",
+      "recipe_image": "https://i.ibb.co/THSwD3r/markus-winkler-z-CPfq-E7ht-NE-unsplash.jpg",
+      "ingredients": [
+          "Rice noodles",
+          "Tofu",
+          "Bean sprouts",
+          "Carrots",
+          "Scallions",
+          "Peanuts",
+          "Eggs",
+          "Soy sauce",
+          "Tamarind paste"
+      ],
+      "preparing_time": 35,
+      "calories": 380
+  },
+  {
+      "recipe_id": 4,
+      "recipe_name": "Homemade Margherita Pizza",
+      "short_description": "A classic Italian pizza with tomato sauce, fresh mozzarella, and basil",
+      "recipe_image": "https://i.ibb.co/vZmhZyF/ivan-torres-MQUqbmsz-GGM-unsplash.jpg",
+      "ingredients": [
+          "Pizza dough",
+          "Tomato sauce",
+          "Fresh mozzarella cheese",
+          "Fresh basil leaves",
+          "Olive oil",
+          "Salt",
+          "Black pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 280
+  },
+  {
+      "recipe_id": 5,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Delicious tacos filled with seasoned beef, lettuce, cheese, and salsa",
+      "recipe_image": "https://i.ibb.co/7bL4QwV/hi-estudio-10-LRx68b-De-M-unsplash.jpg",
+      "ingredients": [
+          "Ground beef",
+          "Taco seasoning",
+          "Tortillas",
+          "Lettuce",
+          "Tomatoes",
+          "Cheddar cheese",
+          "Salsa",
+          "Sour cream"
+      ],
+      "preparing_time": 30,
+      "calories": 380
+  },
+  {
+      "recipe_id": 6,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and savory risotto with mushrooms and Parmesan cheese",
+      "recipe_image": "https://i.ibb.co/gRgJ0YB/rob-wicks-qrle-IV6-Kkf-I-unsplash.jpg",
+      "ingredients": [
+          "Arborio rice",
+          "Mushrooms",
+          "Vegetable broth",
+          "Onion",
+          "Garlic",
+          "Parmesan cheese",
+          "Butter",
+          "White wine",
+          "Thyme"
+      ],
+      "preparing_time": 40,
+      "calories": 320
+  }
+]
